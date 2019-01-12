@@ -9,7 +9,10 @@
 ````
 Project Description:
 
-This is the next generation of HID API for Pd and Max/MSP. The aim is to have this object perform the same on Pd on GNU/Linux, Mac OS X, and Windows, and Max/MSP on Mac OS X and Windows. 
+This is the next generation of HID API for Pd and Max/MSP.
+The aim is to have this object perform the same on Pd on
+GNU/Linux, Mac OS X, and Windows, and Max/MSP on Mac OS X
+and Windows. 
 
 Hans-Christoph Steiner <hans@eds.org> 
 Olaf Matthes <olaf@nullmedium.de> 
