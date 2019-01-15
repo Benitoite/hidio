@@ -4,6 +4,7 @@
 * This is a fork of the `[hidio]` 0.1 alpha sourcecode from https://puredata.info/downloads/hidio
 * It has been built on macOS 10.14.3 and the build artifacts are included.  You may clone directly to your externals folder if you wish and start using `[hidio]` right away.  `[hidio]` is licensed under GPL2 and comes with ABSOLUTELY NO WARRANTY.
 * PRs welcome.
+* Issue a `make clean` first to build other platforms.
 <hr>
 
 ````
